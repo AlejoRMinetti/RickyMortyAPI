@@ -7,14 +7,14 @@
   "dependencies": {
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "react-scripts": "2.0.3"
+    "react-scripts": "^5.0.1"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "v": "node -v"
   },
   "browserslist": [
     ">0.2%",
